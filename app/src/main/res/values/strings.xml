@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ModelInAndroid</string>
+    <string name="action_settings">Settings</string>
+    <string name="like">Like</string>
+    <string name="unlike">Unlike</string>
+    <string name="backdrop_title">LOVE ART</string>
+    <string name="backdrop_subtitle">Top 10 most beautiful paintings of the world</string>
+</resources>

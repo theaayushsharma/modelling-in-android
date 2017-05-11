@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/silenthacker/Development/ModelInAndroid/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/Users/silenthacker/Development/ModelInAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.3.1_54417752772606ec235064936f8bdb8f5da05bab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/silenthacker/Development/ModelInAndroid/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/silenthacker/Development/ModelInAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.3.1_040fc1fc81a8cfbe26263d5bd066b4bd11ff2d69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/silenthacker/Development/ModelInAndroid/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/silenthacker/Development/ModelInAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_643ac917b5214add09832795b0ce95459a707e1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/silenthacker/Development/ModelInAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/silenthacker/Development/ModelInAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_40be98762aab777a10a09f5fb28544ce147e156a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/silenthacker/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/silenthacker/Development/ModelInAndroid/app/build/intermediates/pre-dexed/debug/glide-3.7.0_560e0e285d79dd280b3d8977c8a27861b5ce67a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/silenthacker/Development/ModelInAndroid/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/silenthacker/Development/ModelInAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_617f2c1df3a0675cbc8d2208eb8f356b3284b722.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/silenthacker/Development/ModelInAndroid/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/silenthacker/Development/ModelInAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.3.1_e452e313f50eb02ef205f5a877cf31b988267767.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/silenthacker/Development/ModelInAndroid/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/silenthacker/Development/ModelInAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_0209b74631c03c2a7df2c283d09ec2c5a589b8cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/silenthacker/Development/ModelInAndroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/silenthacker/Development/ModelInAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_1981f013d13f62a4d44a8402b9ec6a7d934693ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/silenthacker/Development/ModelInAndroid/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/silenthacker/Development/ModelInAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_426029139165273801c9bc6833e558696c9773dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/silenthacker/Development/ModelInAndroid/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/silenthacker/Development/ModelInAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_528f0ee2bb686ac1818f6a2b7d4ebf6d3b78f351.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/silenthacker/Development/ModelInAndroid/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/silenthacker/Development/ModelInAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.3.1_af4497e04e7005cb21681ed2970ee8fe849e3cd3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/silenthacker/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/silenthacker/Development/ModelInAndroid/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_f640e4bb4e0a809f32df3b14f4e0d78a021c5d0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/silenthacker/Development/ModelInAndroid/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/silenthacker/Development/ModelInAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_59e7d0e33a1f573cfa217b91cffccd7bfc3a7314.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/silenthacker/Development/ModelInAndroid/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/silenthacker/Development/ModelInAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_ee4aac0b994ff0e3a42735c57a9ef89830e56d1c.jar" />
+    </item>
+
+</items>
